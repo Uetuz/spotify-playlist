@@ -3,43 +3,66 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Operativos y Actividades Delictivas en Popayán</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Dulehec - Artista Hardstyle</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .bio {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .social-links {
+            list-style-type: none;
+            padding: 0;
+        }
+        .social-links li {
+            display: inline-block;
+            margin-right: 10px;
+        }
+    </style>
 </head>
 <body>
-    <header>
-        <h1>Operativos y Actividades Delictivas en Popayán: Análisis y Estadísticas</h1>
-    </header>
+    <div class="bio">
+        <h1>Dulehec</h1>
+        <h2>Biografía</h2>
+        <p>Dulehec es un talentoso productor de música Hardstyle con una pasión por crear sonidos únicos y energéticos que cautivan a la audiencia global. Con influencias que van desde los clásicos del Hardstyle hasta las últimas tendencias en la escena electrónica, Dulehec se destaca por su habilidad para fusionar melodías emotivas con poderosos drops, creando una experiencia auditiva inolvidable.</p>
 
-    <main>
-        <section>
-            <h2>Captura de Individuos Vinculados a Pandillas</h2>
-            <p>Se estima que entre 100 y 150 individuos vinculados a pandillas podrían ser capturados anualmente en Popayán.</p>
-            <img src="grafico_capturas.png" alt="Gráfico de Capturas Anuales">
-        </section>
+        <h2>Discografía</h2>
+        <ul>
+            <li>Álbumes:
+                <ul>
+                    <li>Inception (2023)</li>
+                </ul>
+            </li>
+            <li>Singles destacados:
+                <ul>
+                    <li>Euphoric Revolution (2022)</li>
+                    <li>Beyond Limits (2023)</li>
+                    <li>Into the Void (2023)</li>
+                </ul>
+            </li>
+        </ul>
 
-        <section>
-            <h2>Desarticulación de Bandas</h2>
-            <p>Aproximadamente 5 a 10 bandas podrían ser desarticuladas cada año como resultado de los operativos.</p>
-            <img src="grafico_bandas.png" alt="Gráfico de Bandas Desarticuladas Anualmente">
-        </section>
+        <h2>Videos Musicales</h2>
+        <p>Enlace al canal de YouTube: <a href="#">Canal de YouTube de Dulehec</a></p>
 
-        <section>
-            <h2>Relación con Microtráfico de Drogas</h2>
-            <p>Se estima que un 60-70% de las actividades delictivas de las pandillas en Popayán están relacionadas con el microtráfico de drogas.</p>
-            <img src="grafico_microtrafico.png" alt="Gráfico de Relación con Microtráfico de Drogas">
-        </section>
+        <h2>Redes Sociales</h2>
+        <ul class="social-links">
+            <li><a href="#">Instagram</a></li>
+            <li><a href="#">Facebook</a></li>
+            <li><a href="#">SoundCloud</a></li>
+            <li><a href="#">Spotify</a></li>
+        </ul>
 
-        <section>
-            <h2>Delitos por Menores de Edad</h2>
-            <p>Los menores de edad podrían estar involucrados en un 20-30% de los delitos relacionados con pandillas, incluyendo robos, asaltos y tráfico de drogas.</p>
-            <img src="grafico_menores.png" alt="Gráfico de Delitos por Menores de Edad">
-        </section>
-    </main>
-
-    <footer>
-        <p>&copy; 2024 - Análisis de Seguridad en Popayán</p>
-    </footer>
+        <h2>Contacto</h2>
+        <p>Para consultas de prensa, colaboraciones y reservas, por favor contacta a Dulehec a través de <a href="mailto:info@dulehec.com">correo electrónico</a>.</p>
+    </div>
 </body>
 </html>
 
